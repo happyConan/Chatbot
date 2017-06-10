@@ -5,5 +5,5 @@ applications:
   buildpack: liberty-for-java
   env:
     JVM: openjdk
-    CONVERSATION_WORKSPACE_ID: 49808734-3046-4927-bd45-85d5281a40b7
+    CONVERSATION_WORKSPACE_ID: 2fb6985c-c186-4c83-9a2f-809e8ed1f907
     CAR_SERVICE_HOST: wangfei.mybluemix.net
